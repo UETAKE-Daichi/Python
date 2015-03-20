@@ -1,0 +1,4 @@
+from math import pi
+from math import exp
+print(pi)
+print(exp(1))
